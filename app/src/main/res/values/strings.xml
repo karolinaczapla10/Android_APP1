@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="adres_tv">Adres</string>
+    <string name="adres_et">https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.36.tar.xz</string>
+    <string name="pobierz_info_bt">Pobierz informacje</string>
+    <string name="rozmiar_pliku_tv">Rozmiar pliku</string>
+    <string name="typ_pliku_tv">Typ pliku</string>
+    <string name="pobierz_plik_bt">Pobierz plik</string>
+    <string name="pobrano_bajtow_tv">Pobrano bajtów</string>
+    <string name="powiadomienie_tytul">Pobieranie pliku</string>
+</resources>
